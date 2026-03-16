@@ -36,11 +36,17 @@ DAG `mongo_to_postgres_etl` выполняет:
 2. Transform — подготовка данных
 3. Load — загрузка в PostgreSQL
 
+![](pics/pic3.png)
+
 ## Аналитические витрины
+
+![](pics/pic4.png)
 
 ### Витрина активности пользователей
 
 Таблица: `mart_user_activity`
+
+![](pics/pic1.jpg)
 
 Метрики:
 
@@ -51,6 +57,8 @@ DAG `mongo_to_postgres_etl` выполняет:
 ### Витрина поддержки
 
 Таблица: `mart_support_stats`
+
+![](pics/pic2.jpg)
 
 Метрики:
 
